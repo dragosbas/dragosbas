@@ -1,8 +1,7 @@
  
-### <div align="center">I'm Dragos, a full-time full-stack junior freelance developer 👨‍💻 working remotely since 2022🚀</div>  
+### <div align="center">I'm Dragos, a full-time jack of all trades freelance developer 👨‍💻 working remotely since 2022🚀</div>  
   
 
-- 🔭 I’m currently working on [Talentiq](https://aibest.azurewebsites.net/)  
   
 
 - 🌱 I’m currently learning Tensorflow and ML  
